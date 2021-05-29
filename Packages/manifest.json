@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.unity.textmeshpro": "1.4.1",
     "com.mapbox.mapbox-unity-sdk": "https://github.com/mapbox/mapbox-unity-sdk.git",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
